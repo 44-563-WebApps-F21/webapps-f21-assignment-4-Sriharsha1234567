@@ -20,13 +20,42 @@
     background-color: rgb(143, 155, 188);
 }
 
-.LADY_HUNSTANTON{
+.LADYHUNSTANTON{
     color: deeppink;
 }
 
-.MRS.ALLONBY{
+.MRSALLONBY{
     color:darkmagenta;
 }
 .GERALD{
     color:blanchedalmond
+}
+able{
+    border: 1px solid black;
+    padding: 45px 30px 50px;
+    margin: 25px 50px 80px 100px;
+    width: 50%;
+}
+th{
+    color: black;
+    border: 1px solid black;
+    text-align: center;
+    background-color:crimson;
+}
+td{
+    color:rgb(23, 10, 199) ;
+    border: 1px solid black;
+    text-align: left;
+}
+tr:nth-child(even){
+    background-color:cyan ;
+}
+.ALICE{
+    color:darkmagenta
+}
+.name:hover{
+    text-shadow: 2px 3px 4px rgb(236, 240, 35);
+    color: orange ;
+    filter: blur(4px);
+    border: solid 3px rgb(23, 10, 199)
 }
