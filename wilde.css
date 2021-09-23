@@ -1,0 +1,32 @@
+.speech{
+    color: black;
+    font-size: 17px;
+    font-family: Times New Roman;}
+
+.stage-direction{
+    color:black;
+    font-size: 17px;
+    font-family: Times New Roman;
+    background-color: darkgray;}
+
+.name{
+    color: black;
+    font-size: 17px;
+    font-family: Times New Roman}
+
+.stage-direction:hover{
+    color: rgb(56, 196, 68);
+    filter: blur(3px);
+    background-color: rgb(143, 155, 188);
+}
+
+.LADY_HUNSTANTON{
+    color: deeppink;
+}
+
+.MRS.ALLONBY{
+    color:darkmagenta;
+}
+.GERALD{
+    color:blanchedalmond
+}
